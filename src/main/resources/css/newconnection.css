@@ -1,0 +1,79 @@
+.parent {
+    -fx-background-color: #fff;
+}
+
+.sidebar {
+    -fx-background-color: #fff;
+}
+
+.quick-connect-button {
+    -fx-background-color: #708090;
+    -fx-background-radius: 0;
+}
+
+.quick-connect-right-anchor {
+    -fx-background-color: #e0e0e0;
+}
+
+.quick-connect-right-field {
+    -fx-border-color: #708090;
+    -fx-background-color: transparent;
+    -fx-background-insets: 0;
+    -fx-border-radius: 20;
+}
+
+.search-field {
+    -fx-border-width: 0;
+    -fx-background-color: transparent;
+    -fx-border-radius: 0;
+}
+
+.btns {
+    -fx-background-color: transparent;
+    -fx-background-radius: 0;
+}
+
+.btns:hover {
+    -fx-background-color: #708090;
+}
+
+.jfx-list-cell:selected {
+    -fx-background-color: #708090;
+}
+
+.jfx-list-cell {
+    -fx-background-insets: 0.0;
+}
+
+.jfx-list-cell:hover {
+    -fx-background-color: #708090;
+}
+
+.split-pane:horizontal > .split-pane-divider {
+    -fx-background-color: transparent;
+}
+
+.split-pane:vertical > .split-pane-divider {
+    -fx-background-color: transparent;
+}
+
+.split-pane > .split-pane-divider {
+    -fx-padding: 0 0 0 0;
+}
+
+.tab-header-background {
+    -fx-background-color: #708090;
+}
+
+.list-view {
+    -fx-padding: 1;
+    -fx-border-width: 1;
+}
+
+.list-cell{
+    -fx-padding: 4 0 4 0;
+}
+
+.jfx-button {
+    -fx-background-radius: 0;
+}
